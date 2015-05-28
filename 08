@@ -16,6 +16,7 @@ int main()
     
         cout<<"Podaj liczbe:";
         cin>>a;
+        //XddXd
 
         b += a;
     
