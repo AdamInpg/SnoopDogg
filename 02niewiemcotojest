@@ -14,7 +14,7 @@ int main()
     //heuheuheuheuheueirhfekiswgfhrskjghdkuig
 
     cout<<"Podaj ile liczb chcesz wprowadzic:";
-    niepowiem ile
+    //xdddddddddd
     cin>>x;
 
     for(int i=1; i<=x ; i++)
