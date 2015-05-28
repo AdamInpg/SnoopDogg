@@ -23,6 +23,10 @@ int main()
 
     cout<<"Wynik to:"<<b;
     getch();
+    
+    cout<<"XDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"<<endl;
 
     return 0;
 }
+
+
