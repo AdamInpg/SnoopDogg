@@ -5,7 +5,8 @@ using namespace std;
 
 int main()
 {
-    int x;
+
+int x; //XDDDDD
     float a=0, b=0;
 
     cout<<"Podaj ile liczb chcesz wprowadzic:";
