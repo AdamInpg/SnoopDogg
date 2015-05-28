@@ -12,6 +12,7 @@ int main()
     cin>>x;
 
     for(int i=1; i<=x ; i++)
+    //Jesc
     {
     
         cout<<"Podaj liczbe:";
