@@ -29,9 +29,5 @@ int main()
     printf( "Test dzialania Code::Blocks" );
     printf( "Test dzialania Code::Blocks" );
     printf( "Test dzialania Code::Blocks" );
-    printf( "Test dzialania Code::Blocks" );
-    printf( "Test dzialania Code::Blocks" );
-    printf( "Test dzialania Code::Blocks" );
-    printf( "Test dzialania Code::Blocks" );
     return 0;
 }
