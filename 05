@@ -1,4 +1,6 @@
 #include <iostream>
+
+//TO JEST GLUPIE
 #include <conio.h>
 
 using namespace std;
