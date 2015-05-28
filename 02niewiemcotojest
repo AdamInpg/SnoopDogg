@@ -7,6 +7,8 @@ int main()
 {
     int x;
     float a=0, b=0;
+    
+    //heuheuheuheuheueirhfekiswgfhrskjghdkuig
 
     cout<<"Podaj ile liczb chcesz wprowadzic:";
     cin>>x;
