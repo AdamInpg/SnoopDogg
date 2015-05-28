@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//lifetime of happiness
+
 int main()
 {
     int x;
